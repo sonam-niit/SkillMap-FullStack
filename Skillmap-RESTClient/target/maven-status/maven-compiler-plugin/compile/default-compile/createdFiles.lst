@@ -1,0 +1,3 @@
+com\niit\skillmap\rest\controller\EmployeeController.class
+com\niit\skillmap\rest\config\AppConfig.class
+com\niit\skillmap\rest\config\WebAppInitializer.class
